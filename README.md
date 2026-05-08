@@ -43,6 +43,11 @@
   </a>
   &nbsp;&nbsp;&nbsp;
 
+  <a href="mailto:nirajsingh.u10@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
   <a href="https://leetcode.com/u/niraj2006/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
   </a>
