@@ -49,7 +49,7 @@
   &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.hackerrank.com/profile/nirajsingh_u10" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hackerrank.svg" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
 
