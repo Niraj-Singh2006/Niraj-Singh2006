@@ -1,78 +1,72 @@
 <h1 align="center">Hi 👋, I'm Niraj</h1>
-<h3 align="center">🚀 B.Tech CSE (Artificial Intelligence & Machine Learning) Student | Tech Enthusiast | Problem Solver</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&height=60&lines=AI+%26+ML+Student;Full+Stack+Developer;Problem+Solver;Always+Learning+New+Things" />
+</p>
+
+<h3 align="center">
+🚀 B.Tech CSE (Artificial Intelligence & Machine Learning) Student | Tech Enthusiast | Problem Solver
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=niraj2006&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
----
+<hr>
 
-🚀 About Me
+<h2>🚀 About Me</h2>
 
-- 💻 Interested in Software Development & Full Stack Development
-- 🤖 Passionate about Artificial Intelligence & Real-world Problem Solving
-- 🌱 Currently exploring AI/ML and Full Stack Development
-- 💡 Love building impactful projects using technology
-- ⚡ Strong believer in "Always curious, always learning"
-- 🤝 Open to collaborating on exciting projects and ideas
+<img align="right" alt="Coding" width="320"
+style="margin-left:20px;"
+src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif">
 
-<br />
-<br />
+<ul>
+  <li>💻 Interested in Software Development & Full Stack Development</li>
+  <li>🤖 Passionate about Artificial Intelligence & Real-world Problem Solving</li>
+  <li>🌱 Currently exploring AI/ML and Full Stack Development</li>
+  <li>💡 Love building impactful projects using technology</li>
+  <li>⚡ Strong believer in "Always curious, always learning"</li>
+  <li>🤝 Open to collaborating on exciting projects and ideas</li>
+</ul>
+<br clear="right"/>
 
----
+<hr>
 
-🎓 About My Journey
+<h2>🎓 About My Journey</h2>
 
-- 🎓 Pursuing B.Tech in Computer Science Engineering (AI & ML)
-- 🔭 Learning advanced concepts in Full Stack Development & AI Systems
-- 🚀 Constantly exploring new technologies, tools, and frameworks
-- 🌍 Interested in creating innovative solutions for real-world problems
+<ul>
+  <li>🎓 Pursuing B.Tech in Computer Science Engineering (AI & ML)</li>
+  <li>🔭 Learning advanced concepts in Full Stack Development & AI Systems</li>
+  <li>🚀 Constantly exploring new technologies, tools, and frameworks</li>
+  <li>🌍 Interested in creating innovative solutions for real-world problems</li>
+</ul>
 
-<br />
-<br />
+<hr>
 
----
+<h2 align="center">📊 GitHub Stats</h2>
 
-🤝 Connect With Me
-
-<br />
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/niraj-singh-13161132a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="mailto:nirajsingh.u10@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://leetcode.com/u/niraj2006/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.hackerrank.com/profile/nirajsingh_u10" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.geeksforgeeks.org/profile/nirajsi38cn" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40"/>
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niraj2006&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=niraj2006&theme=tokyonight" height="170"/>
 </p>
 
-<br />
-<br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niraj2006&layout=compact&theme=tokyonight"/>
+</p>
 
----
+<hr>
 
-🛠️ Tech Stack
+<h2>🛠️ Tech Stack</h2>
 
-👨‍💻 Languages
+<h3>👨‍💻 Languages</h3>
 
 <p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
@@ -82,52 +76,51 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
 </p>
 
-🌐 Web Development
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-</p>
-
-🧰 Tools & Platforms
+<h3>🧰 Tools & Platforms</h3>
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://img.icons8.com/ios11/512/FFFFFF/github.png" width="40"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 </p>
 
----
+<hr>
 
-🎯 Current Goals
+<h2>🎯 Current Goals</h2>
 
-- 📚 Strengthening Full Stack Development fundamentals
-- 🌍 Contribute to Open Source
-- 💼 Preparing for Internships & Real-world Experience
-- 🧠 Continuously improving Problem-Solving Skills
-- 🚀 Building impactful real-world projects
+<ul>
+  <li>📚 Strengthening Full Stack Development fundamentals</li>
+  <li>🌍 Contribute to Open Source</li>
+  <li>💼 Preparing for Internships & Real-world Experience</li>
+  <li>🧠 Continuously improving Problem-Solving Skills</li>
+  <li>🚀 Building impactful real-world projects</li>
+</ul>
 
-> *"Technology is best when it brings people together and solves real-world problems."*
+<blockquote>
+Technology is best when it brings people together and solves real-world problems.
+</blockquote>
 
----
+<hr>
 
-📊 GitHub Stats
+<h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niraj2006&show_icons=true&theme=tokyonight" height="170"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niraj2006&theme=tokyonight" height="170"/>
+<a href="https://www.linkedin.com/in/niraj-singh-13161132a/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:nirajsingh.u10@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/niraj2006/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/profile/nirajsingh_u10" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="45"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.geeksforgeeks.org/profile/nirajsi38cn" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40"/></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niraj2006&layout=compact&theme=tokyonight"/>
+  <img width="450"
+  src="https://raw.githubusercontent.com/rahul-jha98/README_GIFS/main/footer.gif">
 </p>
 
----
-
-<h3 align="center">✨ Always Learning | Always Building | Always Growing 🚀</h3>
+<h3 align="center">
+✨ Always Learning | Always Building | Always Growing 🚀
+</h3>
