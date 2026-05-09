@@ -40,20 +40,6 @@ src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif">
   <li>🚀 Constantly exploring new technologies, tools, and frameworks</li>
   <li>🌍 Interested in creating innovative solutions for real-world problems</li>
 </ul>
-
-<hr>
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niraj2006&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=niraj2006&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niraj2006&layout=compact&theme=tokyonight"/>
-</p>
-
 <hr>
 
 <h2>🛠️ Tech Stack</h2>
@@ -104,6 +90,20 @@ src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif">
 Technology is best when it brings people together and solves real-world problems.
 </blockquote>
 
+</hr>
+<hr>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niraj2006&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=niraj2006&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niraj2006&layout=compact&theme=tokyonight"/>
+</p>
+
 <hr>
 
 <h2 align="center">🤝 Connect With Me</h2>
@@ -124,3 +124,4 @@ Technology is best when it brings people together and solves real-world problems
 <h3 align="center">
 ✨ Always Learning | Always Building | Always Growing 🚀
 </h3>
+<hr>
