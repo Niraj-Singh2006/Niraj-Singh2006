@@ -1,4 +1,4 @@
-<img width="100%" src="./banner.png" alt="AI and technology banner" />
+<img width="100%" src="./banner-animated.svg" alt="Animated Niraj Singh developer banner" />
 
 <h1 align="center">Hi 👋, I'm Niraj Singh</h1>
 
