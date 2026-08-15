@@ -19,7 +19,7 @@
 
 <hr>
 
-<h2 align="center">About Me</h2>
+<h2 align="center">👨‍💻 About Me</h2>
 
 <ul>
   <li>💻 Building a strong foundation in full-stack development</li>
@@ -111,5 +111,9 @@
   <a href="https://www.hackerrank.com/profile/nirajsingh_u10"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="45" alt="HackerRank" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.geeksforgeeks.org/profile/nirajsi38cn"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40" alt="GeeksforGeeks" /></a>
 </p>
-
-<p align="center"><i>Always learning. Always building. Always growing.</i></p>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=20&duration=2600&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&height=55&lines=Always+learning.+Always+building.+Always+growing."
+    alt="Always learning, Always building, Always growing."
+  />
+</p>
