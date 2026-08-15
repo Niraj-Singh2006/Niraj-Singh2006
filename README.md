@@ -79,21 +79,6 @@
 
 <hr>
 
-<h2 align="center">GitHub Activity</h2>
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Niraj-Singh2006&show_icons=true&theme=tokyonight"
-    alt="Niraj's GitHub stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj-Singh2006&layout=compact&theme=tokyonight"
-    alt="Most used languages"
-  />
-</p>
-
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
