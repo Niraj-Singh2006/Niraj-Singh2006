@@ -80,14 +80,18 @@
 <hr>
 
 <h2 align="center">GitHub Activity</h2>
-
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Niraj-Singh2006&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github" alt="Niraj's GitHub stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Niraj-Singh2006&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8&sideNums=F8FAFC&currStreakNum=F8FAFC" alt="Niraj's contribution streak" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Niraj-Singh2006&show_icons=true&theme=tokyonight"
+    alt="Niraj's GitHub stats"
+  />
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj-Singh2006&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1" alt="Most used languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj-Singh2006&layout=compact&theme=tokyonight"
+    alt="Most used languages"
+  />
 </p>
 
 <h2 align="center">📈 Contribution Graph</h2>
