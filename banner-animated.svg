@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 540" role="img" aria-labelledby="title desc">
+  <title id="title">Niraj Singh developer banner</title>
+  <desc id="desc">Animated blue data streams behind Niraj Singh and email address.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#020617" />
+      <stop offset=".52" stop-color="#071b42" />
+      <stop offset="1" stop-color="#020617" />
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#0ea5e9" stop-opacity="0" />
+      <stop offset=".4" stop-color="#38bdf8" stop-opacity=".9" />
+      <stop offset=".72" stop-color="#6366f1" stop-opacity=".8" />
+      <stop offset="1" stop-color="#0ea5e9" stop-opacity="0" />
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-80%" width="180%" height="260%">
+      <feGaussianBlur stdDeviation="7" result="blur" />
+      <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+    </filter>
+    <radialGradient id="orb"><stop stop-color="#67e8f9" /><stop offset="1" stop-color="#0ea5e9" stop-opacity="0" /></radialGradient>
+  </defs>
+
+  <rect width="1600" height="540" fill="url(#bg)" />
+  <g opacity=".25" stroke="#38bdf8" stroke-width="1">
+    <path d="M-20 140 C260 40 360 260 610 150 S970 30 1210 150 S1500 250 1650 70" fill="none">
+      <animate attributeName="d" dur="9s" repeatCount="indefinite" values="M-20 140 C260 40 360 260 610 150 S970 30 1210 150 S1500 250 1650 70;M-20 180 C230 60 390 210 620 190 S980 60 1220 110 S1480 220 1650 110;M-20 140 C260 40 360 260 610 150 S970 30 1210 150 S1500 250 1650 70" />
+    </path>
+    <path d="M-50 390 C210 270 390 510 660 380 S990 260 1250 370 S1510 480 1650 350" fill="none">
+      <animate attributeName="d" dur="11s" repeatCount="indefinite" values="M-50 390 C210 270 390 510 660 380 S990 260 1250 370 S1510 480 1650 350;M-50 350 C210 300 390 470 650 410 S1030 230 1260 340 S1510 450 1650 330;M-50 390 C210 270 390 510 660 380 S990 260 1250 370 S1510 480 1650 350" />
+    </path>
+  </g>
+
+  <g fill="none" stroke="url(#wave)" stroke-width="3" filter="url(#glow)">
+    <path d="M-80 400 C250 120 370 560 710 290 S1170 100 1680 300" stroke-dasharray="24 22">
+      <animate attributeName="stroke-dashoffset" dur="2.8s" values="0;-184" repeatCount="indefinite" />
+    </path>
+    <path d="M-80 475 C270 190 420 540 750 350 S1180 160 1680 210" stroke-width="2" stroke-dasharray="17 30">
+      <animate attributeName="stroke-dashoffset" dur="3.6s" values="0;190" repeatCount="indefinite" />
+    </path>
+  </g>
+
+  <g fill="#38bdf8" filter="url(#glow)">
+    <circle cx="130" cy="170" r="8"><animate attributeName="opacity" values=".25;1;.25" dur="2s" repeatCount="indefinite" /></circle>
+    <circle cx="260" cy="250" r="6"><animate attributeName="opacity" values="1;.2;1" dur="3s" repeatCount="indefinite" /></circle>
+    <circle cx="1370" cy="150" r="8"><animate attributeName="opacity" values=".2;1;.2" dur="2.3s" repeatCount="indefinite" /></circle>
+    <circle cx="1480" cy="310" r="6"><animate attributeName="opacity" values="1;.2;1" dur="2.7s" repeatCount="indefinite" /></circle>
+  </g>
+  <g opacity=".55"><circle cx="280" cy="110" r="52" fill="url(#orb)"><animate attributeName="opacity" values=".2;.8;.2" dur="4s" repeatCount="indefinite" /></circle><circle cx="1320" cy="390" r="68" fill="url(#orb)"><animate attributeName="opacity" values=".7;.15;.7" dur="5s" repeatCount="indefinite" /></circle></g>
+
+  <g text-anchor="middle" font-family="Arial, Helvetica, sans-serif">
+    <text x="800" y="252" fill="#f8fafc" font-family="Georgia, Times New Roman, serif" font-size="82" font-weight="700" font-style="italic" letter-spacing="10">Niraj Singh</text>
+    <rect x="472" y="282" width="656" height="3" rx="1.5" fill="#22d3ee">
+      <animate attributeName="width" values="560;656;560" dur="3s" repeatCount="indefinite" />
+      <animate attributeName="x" values="520;472;520" dur="3s" repeatCount="indefinite" />
+    </rect>
+    <text x="800" y="344" fill="#38bdf8" font-size="27" font-family="monospace" letter-spacing="3">AI/ML ENGINEER  |  FULL-STACK DEV</text>
+  </g>
+  <g text-anchor="end" font-family="Arial, Helvetica, sans-serif">
+    <text x="1535" y="48" fill="#7dd3fc" font-size="18" font-family="monospace" letter-spacing="1">✉  nirajsingh.u10@gmail.com</text>
+  </g>
+</svg>
