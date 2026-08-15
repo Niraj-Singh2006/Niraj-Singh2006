@@ -19,7 +19,7 @@
 
 <hr>
 
-<h2>About Me</h2>
+<h2 align="center">About Me</h2>
 
 <ul>
   <li>💻 Building a strong foundation in full-stack development</li>
@@ -30,41 +30,53 @@
 
 <hr>
 
-<h2>Tech Stack</h2>
+<h2 align="center">🚀 Tech Stack</h2>
 
-<h3>Languages</h3>
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" alt="C" />
+<h3 align="center">💻 Languages</h3>
+<p align="center"><img src="https://skillicons.dev/icons?i=c&theme=dark" height="52" alt="C" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="52" alt="C++" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="52" alt="Java" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="52" alt="Python" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="52" alt="JavaScript" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="52" alt="HTML" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="52" alt="CSS" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="52" alt="MySQL" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/sqlite/38BDF8" width="52" alt="SQLite" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="52" alt="NumPy" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="52" alt="Pandas" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="52" alt="Matplotlib" />
 </p>
 
-<h3>Tools</h3>
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git" />
+<h3 align="center">🛠️ Tools</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="52" alt="Git" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="52" alt="GitHub" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="52" alt="VS Code" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="52" alt="IntelliJ IDEA" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="52" alt="Eclipse" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="52" alt="Figma" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="52" alt="Linux" />
 </p>
-
 <hr>
 
-<h2>Current Focus</h2>
+<h2 align="center">🎯 Current Focus</h2>
 
 <ul>
   <li>Strengthening full-stack development fundamentals</li>
@@ -90,7 +102,7 @@
 
 <hr>
 
-<h2 align="center">Connect With Me</h2>
+<h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/niraj-singh-13161132a/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
