@@ -90,6 +90,15 @@
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj-Singh2006&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1" alt="Most used languages" />
 </p>
 
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Niraj-Singh2006&bg_color=0D1117&color=CBD5E1&line=38BDF8&point=F8FAFC&area=true&area_color=1E3A8A&hide_border=true&custom_title=Niraj%27s%20Contribution%20Graph"
+    alt="Niraj's contribution graph"
+  />
+</p>
+
 <hr>
 
 <h2 align="center">Connect With Me</h2>
